@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\constants\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|c:\\users\\baylar\\source\\repos\\entityframeworkconsoleapp\\entityframeworkconsoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B17A1EF-CD44-454E-AC1C-758E33C6E2CE}|EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp.csproj|solutionrelative:entityframeworkconsoleapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +39,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Library.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:48:53.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nationality.cs",
-              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
-              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
-              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:46:56.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
               "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
               "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Genre.cs",
               "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T07:45:58.433Z",
+              "WhenOpened": "2024-07-07T16:19:49.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Constants\\Nationality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:50:59.592Z",
               "EditorCaption": ""
             },
             {
@@ -75,9 +74,48 @@
               "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Program.cs",
               "RelativeToolTip": "EntityFrameworkConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAaWZmZmYswCsAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T03:00:07.814Z",
+              "WhenOpened": "2024-07-07T15:41:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:40:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:40:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Baylar\\source\\repos\\EntityFrameworkConsoleApp\\EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "RelativeToolTip": "EntityFrameworkConsoleApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:39:13.736Z",
               "EditorCaption": ""
             }
           ]
